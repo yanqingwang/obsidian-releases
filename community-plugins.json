@@ -35833,6 +35833,13 @@
     "repo": "tzadikimbiu/lotus"
   },
   {
+    "id": "vault-agent",
+    "name": "Vault Agent",
+    "author": "rosswang",
+    "description": "AI vault agent powered by China-accessible LLM APIs — DeepSeek, GLM, Kimi, Qwen, Volcengine Ark, Tencent Hunyuan, Hermes (Nous) or any OpenAI-compatible endpoint. Agentic note search/create/edit. No CLI, no proxy.",
+    "repo": "yanqingwang/obsidian-vault-agent"
+  },
+  {
     "id": "html-effectiveness",
     "name": "HTML Effectiveness",
     "author": "rosswang",
