@@ -58462,5 +58462,12 @@
     "author": "Enshine LEWIS",
     "description": "Develop articles from local notes with traceable sources and human approval. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cloudenshine/OpenContent"
+  },
+  {
+    "id": "quadrant-chart",
+    "name": "Quadrant Chart",
+    "author": "rosswang",
+    "description": "Draw labelled N x M quadrant charts with free-floating text, stored as plain-YAML .mdx files you can also edit by hand or with a script.",
+    "repo": "yanqingwang/quadrant-chart"
   }
 ]
