@@ -35824,5 +35824,12 @@
     "author": "wangq",
     "description": "Render spatial HTML content (compare/diagram/slides/report/timeline) in Obsidian. Based on html-effectiveness methodology.",
     "repo": "yanqingwang/obsidian-html-effectiveness"
+  },
+  {
+    "id": "clear-unused-attachments-selectable",
+    "name": "Clear Unused Attachments Selectable",
+    "author": "Yanqing Wang",
+    "description": "Clear unused images and attachments with folder and file type selection before cleaning. Supports bilingual UI, excluded file types, and confirmation list.",
+    "repo": "yanqingwang/Clean_unused_attachments_selectable"
   }
 ]
