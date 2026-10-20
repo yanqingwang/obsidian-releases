@@ -35824,5 +35824,12 @@
     "author": "wangq",
     "description": "Render spatial HTML content (compare/diagram/slides/report/timeline) in Obsidian. Based on html-effectiveness methodology.",
     "repo": "yanqingwang/obsidian-html-effectiveness"
+  },
+  {
+    "id": "thinkcell-planner",
+    "name": "ThinkCell Planner",
+    "author": "Yanqing Wang",
+    "description": "Create Think-Cell style project plans and Gantt charts in 16:9 PPT size. Export as SVG editable in PowerPoint.",
+    "repo": "yanqingwang/obsidian-thinkcell-planner"
   }
 ]
